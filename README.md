@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm kstar0102</h1>
 <h3 align="center">Cross-Platform & Native App | Web | AI Developer</h3>
-<h6 align="center">I am a dedicated, reliable and responsible developer who always focuses on credit.
+<h4 align="center">I am a dedicated, reliable and responsible developer who always focuses on credit.
 “Money is necessary in life, but the most important is Good Relationship, 
-Trusting and Top skill, not money” This is my working slogan.</h6>
+Trusting and Top skill, not money” This is my working slogan.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kstar0102&label=Profile%20views&color=0e75b6&style=flat" alt="kstar0102" /> </p>
 <div align="center" dir="auto">
 <img src="https://5.imimg.com/data5/TR/OQ/MY-24528926/mobile-app-development-services-500x500.jpg" height="500" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
