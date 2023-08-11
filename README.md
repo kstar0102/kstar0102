@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm kstar0102</h1>
-<h3 align="center">Senior App & Web Developer</h3>
+<h3 align="center">Cross-Platform & Native App | Web | AI Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kstar0102&label=Profile%20views&color=0e75b6&style=flat" alt="kstar0102" /> </p>
 <div align="center" dir="auto">
