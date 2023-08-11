@@ -1,27 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm kstar0102</h1>
-<h3 align="center">Senior Full-stack developer</h3>
+<h3 align="center">Senior App & Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kstar0102&label=Profile%20views&color=0e75b6&style=flat" alt="kstar0102" /> </p>
 <div align="center" dir="auto">
-  <animated-image data-catalyst="" style="width: 600px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" height="300" data-canonical-src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" target="_blank">
-</animated-image>
+<img src="https://5.imimg.com/data5/TR/OQ/MY-24528926/mobile-app-development-services-500x500.jpg" height="300" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kstar0102" alt="kstar0102" /></a> </p>
 
-- 🌱 I’m currently learning **Golang and rust**
-
-- 👨‍💻 All of my projects are available at [https://kstar0102.github.io/my-portfolio/)
-
-- 💬 Ask me about **react, vue, laravel**
-
-- 📫 How to reach me **kstar0102@gmail.com**
-
-- 📄 Know about my experiences [https://kstar0102.github.io/my-portfolio/)
-
-- ⚡ Fun fact **Football, swimming, running**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
