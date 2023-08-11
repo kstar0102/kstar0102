@@ -6,11 +6,13 @@
 <div align="center" dir="auto">
 <img src="https://5.imimg.com/data5/TR/OQ/MY-24528926/mobile-app-development-services-500x500.jpg" height="500" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kstar0102" alt="kstar0102" /></a> </p>
-
-
 <h2 align="left">Languages and Tools:</h2>
 <h3 align="left">Mobile</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter,swift,kotlin" />
+  </a>
+</p>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -249,9 +251,7 @@
 </p>
 
 <div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kstar0102&show_icons=true&locale=en&layout=compact" alt="kstar0102" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kstar0102&show_icons=true&locale=en" alt="kstar0102" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kstar0102&" alt="kstar0102" /></p>
 </div>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kstar0102" alt="kstar0102" /></a> </p>
