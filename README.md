@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm kstar0102</h1><br>my skype id:       live:.cid.4bbcfa7afbf5dea8</h1>
+<h1 align="center">Hi 👋, I'm kstar0102</h1><br>
 <h3 align="center">Cross-Platform & Native App | Web | AI Developer</h3>
 <h4 align="center">I am a dedicated, reliable and responsible developer who always focuses on credit.<br/>
 “Money is necessary in life, but the most important is Good Relationship, 
